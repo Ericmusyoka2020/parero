@@ -11,7 +11,7 @@ const ACCOUNT_ID = 5932;
 const CHANNEL_ID = 6905;
 const PAYHERO_URL = "https://backend.payhero.co.ke/api/v2/payments";
 
-const CALLBACK_URL = "https://parero.vercel.app//api/callback";
+const CALLBACK_URL = "https://parero.vercel.app/api/callback";
 // =================
 
 app.use(cors());
