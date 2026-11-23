@@ -8,7 +8,7 @@ const PORT = 3000;
 // === CONFIG ===
 const AUTH_TOKEN = "Basic T2h5cWJBRXZSSkQ1dHhNc1F1bG06R29SRzgwTFFocW00Mm81TDBmMXAzQmU0bTgxVjFyYWRrcTlVUGhJbg==";
 const ACCOUNT_ID = 5932;
-const CHANNEL_ID = 6905;
+const CHANNEL_ID = 15795;
 const PAYHERO_URL = "https://backend.payhero.co.ke/api/v2/payments";
 
 const CALLBACK_URL = "https://parero.vercel.app/api/callback";
